@@ -89,6 +89,26 @@ project/
 - DevEco Studio 4.0+
 - Node.js 16+
 
+## 效果图
+
+
+
+![Login](C:\Users\XR\Desktop\github\view\Login.png)
+
+![Index](C:\Users\XR\Desktop\github\view\Index.png)
+
+
+
+![mine](C:\Users\XR\Desktop\github\view\mine.png)
+
+
+
+
+
+![UserInfo](C:\Users\XR\Desktop\github\view\UserInfo.png)
+
+
+
 ## 快速开始
 
 ### 后端部署
