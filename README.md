@@ -93,19 +93,19 @@ project/
 
 
 
-![Login](C:\Users\XR\Desktop\github\view\Login.png)
+![首页](./view/Index.png)
 
-![Index](C:\Users\XR\Desktop\github\view\Index.png)
-
-
-
-![mine](C:\Users\XR\Desktop\github\view\mine.png)
+![登陆页](./view/Login.png)
 
 
 
+![我的](./view/mine.png)
+
+![设置](./view/Setting.png)
+
+![个人信息](./view/UserInfo.png)
 
 
-![UserInfo](C:\Users\XR\Desktop\github\view\UserInfo.png)
 
 
 
