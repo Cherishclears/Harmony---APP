@@ -1,0 +1,11 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/main",
+    "pages/Login",
+    "pages/study",
+    "pages/mine",
+    "pages/Setting",
+    "pages/person"
+  ]
+}
